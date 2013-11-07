@@ -1,5 +1,7 @@
 == README
 
+To install this project, leave a gift basket for Ryan Jones, and then hit the server start button. Make sure you Goody 2.01.14 installed or it won't work. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
