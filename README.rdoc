@@ -5,6 +5,8 @@ To install this project, leave a gift basket for Ryan Jones, and then hit the se
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+This is an edit for the best man Ryan Jones. 
+
 Things you may want to cover:
 
 * Ruby version
